@@ -4,7 +4,7 @@ Transitioning into computational biology from a math/CS/stats background. Docume
 
 #### What I'm working on
 
-🧬 **[bioinformatics](https://github.com/TJMendis/bioinformatics)** — self-study portfolio. Currently working through Ben Langmead's *Algorithms for DNA Sequencing* (Coursera/JHU). Next stops: Bioconductor, then Mt Sinai's Systems Biology and Biotechnology specialization.
+Broadly interested in computational genomics, bioinformatics, proteomics, systems biology, and genetics — drawn to the questions where biology, mathematics, and computation meet.
 
 #### Background
 
